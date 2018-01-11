@@ -5,7 +5,7 @@ int main(void)
 {
 
 	int a = 123;
-	printf("Hello World!\n%d", a);
+	printf("Hello World!\n%d", a);//hello!
 	return 0;
 }
 
